@@ -44,13 +44,13 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/dixita-rajput" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
+  <a href="https://instagram.com/code_with_dishu" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" alt="Instagram" />
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/dixita7733" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
   </a>
 </p>
