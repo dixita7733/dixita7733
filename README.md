@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dixita</h1>
-<h3 align="center">🚀 Full Stack Web Developer | 21 Years Old | Passionate About Building Modern Web Applications</h3>
+<h3 align="center">🚀 Full Stack Web Developer | Passionate About Building Modern Web Applications</h3>
 
 ---
 
