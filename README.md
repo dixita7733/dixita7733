@@ -32,12 +32,13 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dixita7733&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languagess" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixita7733&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
